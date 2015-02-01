@@ -1,0 +1,12 @@
+# Site settings
+title: Gyorgy Farkas
+email: gyfarkas@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Gyorgy Farkas - developer
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://gyfarkas.github.io" # the base hostname & protocol for your site
+twitter_username: fagyuri
+github_username:  gyfarkas
+
+# Build settings
+markdown: kramdown
